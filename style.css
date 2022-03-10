@@ -1,0 +1,15 @@
+.dropdown-menu {
+  max-height: 450px;
+  max-width: 350px;
+  overflow-y: auto;
+}
+
+.row {
+  padding-left: 40px;
+}
+
+.col-xs-4 {
+  padding: 110px;
+  font-size: 50px;
+  padding-top: 40pxs;
+}
